@@ -37,9 +37,6 @@ These probabilities are entered directly in the script rather than calculated fr
 | `Compute.R` | Statistical calculations and normal density plots |
 | `SOCR-HeightWeight.csv` | Height and weight dataset |
 | `UrbanTrafficFlowDataset.csv` | Traffic dataset containing 200 records |
-| `AOL - Continuous .pdf` | Presentation on continuous variables and the normal distribution |
-| `AOL - Discrete.pdf` | Presentation on discrete variables and the multinomial distribution |
-| `Case Study.pdf` | Assignment instructions and assessment criteria |
 
 ## How to Run
 
